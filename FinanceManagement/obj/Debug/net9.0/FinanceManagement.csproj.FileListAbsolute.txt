@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\DCIT 318\Assignments\Assignment 2\dcit318-assignment3-11072929\FinanceManagement\bin\Debug\net9.0\FinanceManagement.exe
+C:\Users\Admin\Desktop\DCIT 318\Assignments\Assignment 2\dcit318-assignment3-11072929\FinanceManagement\bin\Debug\net9.0\FinanceManagement.deps.json
+C:\Users\Admin\Desktop\DCIT 318\Assignments\Assignment 2\dcit318-assignment3-11072929\FinanceManagement\bin\Debug\net9.0\FinanceManagement.runtimeconfig.json
+C:\Users\Admin\Desktop\DCIT 318\Assignments\Assignment 2\dcit318-assignment3-11072929\FinanceManagement\bin\Debug\net9.0\FinanceManagement.dll
+C:\Users\Admin\Desktop\DCIT 318\Assignments\Assignment 2\dcit318-assignment3-11072929\FinanceManagement\bin\Debug\net9.0\FinanceManagement.pdb
+C:\Users\Admin\Desktop\DCIT 318\Assignments\Assignment 2\dcit318-assignment3-11072929\FinanceManagement\obj\Debug\net9.0\FinanceManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DCIT 318\Assignments\Assignment 2\dcit318-assignment3-11072929\FinanceManagement\obj\Debug\net9.0\FinanceManagement.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DCIT 318\Assignments\Assignment 2\dcit318-assignment3-11072929\FinanceManagement\obj\Debug\net9.0\FinanceManagement.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DCIT 318\Assignments\Assignment 2\dcit318-assignment3-11072929\FinanceManagement\obj\Debug\net9.0\FinanceManagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DCIT 318\Assignments\Assignment 2\dcit318-assignment3-11072929\FinanceManagement\obj\Debug\net9.0\FinanceManagement.sourcelink.json
+C:\Users\Admin\Desktop\DCIT 318\Assignments\Assignment 2\dcit318-assignment3-11072929\FinanceManagement\obj\Debug\net9.0\FinanceManagement.dll
+C:\Users\Admin\Desktop\DCIT 318\Assignments\Assignment 2\dcit318-assignment3-11072929\FinanceManagement\obj\Debug\net9.0\refint\FinanceManagement.dll
+C:\Users\Admin\Desktop\DCIT 318\Assignments\Assignment 2\dcit318-assignment3-11072929\FinanceManagement\obj\Debug\net9.0\FinanceManagement.pdb
+C:\Users\Admin\Desktop\DCIT 318\Assignments\Assignment 2\dcit318-assignment3-11072929\FinanceManagement\obj\Debug\net9.0\FinanceManagement.genruntimeconfig.cache
+C:\Users\Admin\Desktop\DCIT 318\Assignments\Assignment 2\dcit318-assignment3-11072929\FinanceManagement\obj\Debug\net9.0\ref\FinanceManagement.dll
