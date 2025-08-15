@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\DCIT 318\Assignments\Assignment 2\dcit318-assignment3-11072929\WearhouseInventory\bin\Debug\net9.0\WearhouseInventory.exe
+C:\Users\Admin\Desktop\DCIT 318\Assignments\Assignment 2\dcit318-assignment3-11072929\WearhouseInventory\bin\Debug\net9.0\WearhouseInventory.deps.json
+C:\Users\Admin\Desktop\DCIT 318\Assignments\Assignment 2\dcit318-assignment3-11072929\WearhouseInventory\bin\Debug\net9.0\WearhouseInventory.runtimeconfig.json
+C:\Users\Admin\Desktop\DCIT 318\Assignments\Assignment 2\dcit318-assignment3-11072929\WearhouseInventory\bin\Debug\net9.0\WearhouseInventory.dll
+C:\Users\Admin\Desktop\DCIT 318\Assignments\Assignment 2\dcit318-assignment3-11072929\WearhouseInventory\bin\Debug\net9.0\WearhouseInventory.pdb
+C:\Users\Admin\Desktop\DCIT 318\Assignments\Assignment 2\dcit318-assignment3-11072929\WearhouseInventory\obj\Debug\net9.0\WearhouseInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DCIT 318\Assignments\Assignment 2\dcit318-assignment3-11072929\WearhouseInventory\obj\Debug\net9.0\WearhouseInventory.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DCIT 318\Assignments\Assignment 2\dcit318-assignment3-11072929\WearhouseInventory\obj\Debug\net9.0\WearhouseInventory.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DCIT 318\Assignments\Assignment 2\dcit318-assignment3-11072929\WearhouseInventory\obj\Debug\net9.0\WearhouseInventory.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DCIT 318\Assignments\Assignment 2\dcit318-assignment3-11072929\WearhouseInventory\obj\Debug\net9.0\WearhouseInventory.sourcelink.json
+C:\Users\Admin\Desktop\DCIT 318\Assignments\Assignment 2\dcit318-assignment3-11072929\WearhouseInventory\obj\Debug\net9.0\WearhouseInventory.dll
+C:\Users\Admin\Desktop\DCIT 318\Assignments\Assignment 2\dcit318-assignment3-11072929\WearhouseInventory\obj\Debug\net9.0\refint\WearhouseInventory.dll
+C:\Users\Admin\Desktop\DCIT 318\Assignments\Assignment 2\dcit318-assignment3-11072929\WearhouseInventory\obj\Debug\net9.0\WearhouseInventory.pdb
+C:\Users\Admin\Desktop\DCIT 318\Assignments\Assignment 2\dcit318-assignment3-11072929\WearhouseInventory\obj\Debug\net9.0\WearhouseInventory.genruntimeconfig.cache
+C:\Users\Admin\Desktop\DCIT 318\Assignments\Assignment 2\dcit318-assignment3-11072929\WearhouseInventory\obj\Debug\net9.0\ref\WearhouseInventory.dll
