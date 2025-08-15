@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\DCIT 318\Assignments\Assignment 2\dcit318-assignment3-11072929\GradingSystem\bin\Debug\net9.0\GradingSystem.exe
+C:\Users\Admin\Desktop\DCIT 318\Assignments\Assignment 2\dcit318-assignment3-11072929\GradingSystem\bin\Debug\net9.0\GradingSystem.deps.json
+C:\Users\Admin\Desktop\DCIT 318\Assignments\Assignment 2\dcit318-assignment3-11072929\GradingSystem\bin\Debug\net9.0\GradingSystem.runtimeconfig.json
+C:\Users\Admin\Desktop\DCIT 318\Assignments\Assignment 2\dcit318-assignment3-11072929\GradingSystem\bin\Debug\net9.0\GradingSystem.dll
+C:\Users\Admin\Desktop\DCIT 318\Assignments\Assignment 2\dcit318-assignment3-11072929\GradingSystem\bin\Debug\net9.0\GradingSystem.pdb
+C:\Users\Admin\Desktop\DCIT 318\Assignments\Assignment 2\dcit318-assignment3-11072929\GradingSystem\obj\Debug\net9.0\GradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DCIT 318\Assignments\Assignment 2\dcit318-assignment3-11072929\GradingSystem\obj\Debug\net9.0\GradingSystem.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DCIT 318\Assignments\Assignment 2\dcit318-assignment3-11072929\GradingSystem\obj\Debug\net9.0\GradingSystem.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DCIT 318\Assignments\Assignment 2\dcit318-assignment3-11072929\GradingSystem\obj\Debug\net9.0\GradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DCIT 318\Assignments\Assignment 2\dcit318-assignment3-11072929\GradingSystem\obj\Debug\net9.0\GradingSystem.sourcelink.json
+C:\Users\Admin\Desktop\DCIT 318\Assignments\Assignment 2\dcit318-assignment3-11072929\GradingSystem\obj\Debug\net9.0\GradingSystem.dll
+C:\Users\Admin\Desktop\DCIT 318\Assignments\Assignment 2\dcit318-assignment3-11072929\GradingSystem\obj\Debug\net9.0\refint\GradingSystem.dll
+C:\Users\Admin\Desktop\DCIT 318\Assignments\Assignment 2\dcit318-assignment3-11072929\GradingSystem\obj\Debug\net9.0\GradingSystem.pdb
+C:\Users\Admin\Desktop\DCIT 318\Assignments\Assignment 2\dcit318-assignment3-11072929\GradingSystem\obj\Debug\net9.0\GradingSystem.genruntimeconfig.cache
+C:\Users\Admin\Desktop\DCIT 318\Assignments\Assignment 2\dcit318-assignment3-11072929\GradingSystem\obj\Debug\net9.0\ref\GradingSystem.dll
